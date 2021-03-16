@@ -13,6 +13,13 @@ const ap = new APlayer({
 		lrc: 'https://cdn.jsdelivr.net/gh/ChanSure/picgo/%E8%8A%B1%E3%81%AF%E5%B9%BB%E6%83%B3%E3%81%AE%E6%9E%9C%E3%81%A6%E3%81%AB.lrc'
 	 },
 	 {
+		name: 'スタッカート・デイズ',
+		artist: '井口裕香 / 阿澄佳奈',
+		url: 'http://music.163.com/song/media/outer/url?id=26434532.mp3',
+		cover: 'http://p1.music.126.net/bEZZDej9XPPaLmv8WDQsVQ==/2393636813727775.jpg?param=130y130',
+		lrc: 'https://cdn.jsdelivr.net/gh/ChanSure/picgo/%E3%82%B9%E3%82%BF%E3%83%83%E3%82%AB%E3%83%BC%E3%83%88%E3%83%BB%E3%83%87%E3%82%A4%E3%82%BA.lrc'
+	 },
+	 {
 		name: 'Happy Halloween',
 		artist: '柊優花 / 鎖那',
 		url: 'http://music.163.com/song/media/outer/url?id=29712183.mp3',
