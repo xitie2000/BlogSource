@@ -88,13 +88,13 @@ const ap = new APlayer({
 		cover: 'http://p2.music.126.net/ivlCltZ5_PHSednttGmLBg==/926888302240122.jpg?param=130y130',
 		lrc: 'https://cdn.jsdelivr.net/gh/ChanSure/picgo/%E7%BE%8E%E3%81%97%E3%81%8D%E3%82%82%E3%81%AE.lrc'
 	 },
-	 {
+	 /*{
 		name: '若当来世',
 		artist: '冥月 / Mario',
 		url: 'http://music.163.com/song/media/outer/url?id=462686465.mp3',
 		cover: 'http://p1.music.126.net/1QSIjG47zPCZf2pwI2J2YQ==/19025949207041612.jpg?param=130y130',
 		lrc: 'https://cdn.jsdelivr.net/gh/ChanSure/picgo/%E8%8B%A5%E5%BD%93%E6%9D%A5%E4%B8%96.lrc'
-	 },
+	 },*/
 	{
 		name: 'ラブ・ストーリーは突然に（突如其来的爱情）',
 		artist: '小田和正',
@@ -227,13 +227,13 @@ const ap = new APlayer({
 		cover: 'http://p1.music.126.net/pYKBjkB6FoNh5Yxkb9uCbw==/109951165698369632.jpg?param=130y130',
 		lrc: path + '/lrc/让风告诉你.lrc'
 	 },
-	 {
+	 /*{
 		name: '牵丝戏',
 		artist: '银临 / Aki阿杰',
 		url: 'http://music.163.com/song/media/outer/url?id=30352891.mp3',
 		cover: 'http://p2.music.126.net/Nd86SOcyCxU5Qu7jdZn_MQ==/7725168696876736.jpg?param=130y130',
 		lrc: 'https://cdn.jsdelivr.net/gh/ChanSure/picgo/%E7%89%B5%E4%B8%9D%E6%88%8F.lrc'
-	 },
+	 },*/
 	 {
 		name: 'Shangri-La',
 		artist: '今井麻美',
