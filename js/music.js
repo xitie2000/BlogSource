@@ -6,6 +6,26 @@ const ap = new APlayer({
 	lrcType: 3,
     audio: [
 	{
+		name: 'チキチキバンバン',
+		artist: 'QUEENDOM',
+		url: 'https://cdn.jsdelivr.net/gh/xitie2000/picgo/チキチキバンバン.mp3',
+		cover: 'http://p2.music.126.net/MsYyE1PMetW8GDrSbz21Cw==/109951167426141020.jpg?param=130y130',
+		lrc: 'https://cdn.jsdelivr.net/gh/xitie2000/picgo/チキチキバンバン.lrc'
+	},
+	{
+		name: '恋ひ恋ふ縁',
+		artist: 'Famishin / KOTOKO',
+		url: 'https://cdn.jsdelivr.net/gh/xitie2000/picgo/恋ひ恋ふ縁.mp3',
+		cover: 'http://p1.music.126.net/UtBzZyeeHb84vRQXWoH48A==/19019352137357551.jpg?param=130y130',
+		lrc: 'https://cdn.jsdelivr.net/gh/xitie2000/picgo/恋ひ恋ふ縁.lrc'
+	},
+	{
+		name: 'とおりゃんせ～甘美風来 Instrument Version',
+		artist: 'Angel Note / 青田新名',
+		url: 'https://cdn.jsdelivr.net/gh/とおりゃんせ～甘美風来%20Instrument%20Version.mp3',
+		cover: 'http://p1.music.126.net/UtBzZyeeHb84vRQXWoH48A==/19019352137357551.jpg?param=130y130',
+	},
+	{
 		name: '花は幻想の果てに',
 		artist: 'EastNewSound',
 		url: 'http://music.163.com/song/media/outer/url?id=22785183.mp3',
@@ -408,12 +428,12 @@ const ap = new APlayer({
 		cover: 'http://p2.music.126.net/PsjQ1vycEVG4nhkXQWhwhQ==/52776558146680.jpg?param=130y130',
 		lrc: 'https://cdn.jsdelivr.net/gh/ChanSure/picgo/%E5%85%89%E9%98%B4%E7%9A%84%E6%95%85%E4%BA%8B.lrc'
 	 },
-	 {
+	 /*{
 		name: '大花轿',
 		artist: '火风',
 		url: 'http://music.163.com/song/media/outer/url?id=5280097.mp3',
 		cover: 'http://p1.music.126.net/pVcOHEJuIDzRuiIil3lCWA==/109951165069087925.jpg?param=130y130',
 		lrc: 'https://cdn.jsdelivr.net/gh/ChanSure/picgo/%E5%A4%A7%E8%8A%B1%E8%BD%BF.lrc'
-	 },
+	 },*/
     ]
 });
