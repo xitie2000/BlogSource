@@ -13,6 +13,13 @@ const ap = new APlayer({
 		lrc: 'https://cdn.jsdelivr.net/gh/xitie2000/picgo/チキチキバンバン.lrc'
 	},
 	{
+		name: 'ふたつの影',
+		artist: 'Famishin / 春風まゆき',
+		url: 'https://cdn.jsdelivr.net/gh/xitie2000/picgo/ふたつの影.mp3',
+		cover: 'https://cdn.jsdelivr.net/gh/xitie2000/picgo/ふたつの影.jpg',
+		lrc: 'https://cdn.jsdelivr.net/gh/xitie2000/picgo/ふたつの影.lrc'
+	},
+	{
 		name: '恋ひ恋ふ縁',
 		artist: 'Famishin / KOTOKO',
 		url: 'https://cdn.jsdelivr.net/gh/xitie2000/picgo/恋ひ恋ふ縁.mp3',
@@ -22,7 +29,7 @@ const ap = new APlayer({
 	{
 		name: 'とおりゃんせ～甘美風来 Instrument Version',
 		artist: 'Angel Note / 青田新名',
-		url: 'https://cdn.jsdelivr.net/gh/とおりゃんせ～甘美風来%20Instrument%20Version.mp3',
+		url: 'https://cdn.jsdelivr.net/gh/xitie2000/picgo/とおりゃんせ～甘美風来%20Instrument%20Version.mp3',
 		cover: 'http://p1.music.126.net/UtBzZyeeHb84vRQXWoH48A==/19019352137357551.jpg?param=130y130',
 	},
 	{
