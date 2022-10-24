@@ -6,6 +6,13 @@ const ap = new APlayer({
 	lrcType: 3,
     audio: [
 	{
+		name: 'Running In The Dark',
+		artist: 'MONKEY MAJIK / 塞壬唱片-MSR',
+		url: 'http://music.163.com/song/media/outer/url?id=1990154664.mp3',
+		cover: 'http://p2.music.126.net/xxQXfMnMlJyMlydzVsRcag==/109951167974724190.jpg?param=130y130',
+		lrc: 'https://cdn.jsdelivr.net/gh/xitie2000/picgo/Running in the dark.lrc'
+	},
+	{
 		name: 'チキチキバンバン',
 		artist: 'QUEENDOM',
 		url: 'https://cdn.jsdelivr.net/gh/xitie2000/picgo/チキチキバンバン.mp3',
